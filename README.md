@@ -7,6 +7,7 @@ This repository contains the solution to a homework assignment for the **Data So
 ## ✅ Project Structure
 
 /Content
+
 ├── authentication.py # Handles GitHub API authentication
 
 ├── pagination_and_rate_limit.py # Functions for pagination and rate limit handling
