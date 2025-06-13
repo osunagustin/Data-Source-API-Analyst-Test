@@ -8,6 +8,7 @@ This repository contains the solution to a homework assignment for the **Data So
 
 /Content
 ├── authentication.py # Handles GitHub API authentication
+
 ├── pagination_and_rate_limit.py # Functions for pagination and rate limit handling
 ├── troubleshooting.md # Common error cases and solutions
 └── github_api_extraction.ipynb # Colab notebook to test GitHub API
